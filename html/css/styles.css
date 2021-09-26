@@ -1,0 +1,20 @@
+.profile {
+    object-fit: cover;
+    border-radius: 50%;
+    border: 8px solid transparent;
+    background: linear-gradient(50deg, #EFA51A 10%, #ce00 100%);
+    margin-left: 1in;
+}
+.title {
+    text-align: center;
+    border-bottom: 2px solid red;
+    margin-top: 20px;
+}
+#about {
+    text-align: left;
+    padding-top: 20px;
+    font-size: 23px;
+}
+ul.ba {
+    list-style-type: none;
+}
